@@ -1,4 +1,6 @@
-# Project-1
+# Basket ball Rush ! 
+
+Play as your favorite NBA team and fight against the final boss Michael Jordan !
 
 * This is a RPG basketball battle game;
 * Game uses one boss and three own character in battle process;
