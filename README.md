@@ -1,6 +1,7 @@
 # Basket ball Rush ! 
 
 Play as your favorite NBA team and fight against the final boss Michael Jordan !
+DEMO: https://jephrocs.github.io/basketBallRush/
 
 * This is a RPG basketball battle game;
 * Game uses one boss and three own character in battle process;
