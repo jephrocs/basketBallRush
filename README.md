@@ -10,3 +10,10 @@ DEMO: https://jephrocs.github.io/basketBallRush/
 * Game also uses ***open-weather*** API to afftect players stats based on temperature;
 * When battle starts, it will keeping going unless one of two sides leaves 0% HP;
 * Technologies used: HTML, Javascript, CSS, Weather/NBA API
+
+
+https://i.ibb.co/gZ4mfHB/bbrss1.png
+![Screenshot1](https://i.ibb.co/gZ4mfHB/bbrss1.png)
+
+https://ibb.co/8m0Vjy1
+![Screenshot2](https://i.ibb.co/gZ4mfHB/bbrss2.png)
