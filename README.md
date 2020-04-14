@@ -12,8 +12,6 @@ DEMO: https://jephrocs.github.io/basketBallRush/
 * Technologies used: HTML, Javascript, CSS, Weather/NBA API
 
 
-https://i.ibb.co/gZ4mfHB/bbrss1.png
 ![Screenshot1](https://i.ibb.co/gZ4mfHB/bbrss1.png)
 
-https://ibb.co/8m0Vjy1
-![Screenshot2](https://i.ibb.co/gZ4mfHB/bbrss2.png)
+![Screenshot2](https://i.ibb.co/tH45b0V/bbrss2.png)
