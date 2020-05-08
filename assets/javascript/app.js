@@ -1,4 +1,4 @@
-//Global variables
+//Global variabless
 var hero =[ 
 {
     health : 100,
