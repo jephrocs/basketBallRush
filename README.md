@@ -14,4 +14,4 @@ DEMO: https://jephrocs.github.io/basketBallRush/
 
 ![Screenshot1](https://i.ibb.co/gZ4mfHB/bbrss1.png)
 
-![Screenshot2](https://i.ibb.co/tH45b0V/bbrss2.png)
+![screenshot2](https://i.ibb.co/tH45b0V/bbrss2.png)
